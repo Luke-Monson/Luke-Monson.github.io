@@ -10,7 +10,7 @@ skills:
   - DFM Analysis (Water jet cutting)
   - Technical writing
 
-main-image: /project2.jpg
+main-image: /Micro-g.jpg
 ---
 
 ---
@@ -37,6 +37,13 @@ independently adjustable legs
 - Produced technical documents and CAD illustrations.
 - Performed preliminary FEA to guide team decisions.
 - Performed DFM analysis to ensure manufacturability
+
+### Images:
+{% include image-gallery.html images="Micro-g Folded Base.jpg" height="400" %} 
+Folded Tripod Base Mechanism
+
+{% include image-gallery.html images="Micro-g Folding mechanism.jpg" height="400" %} 
+Snap-fit Locking Mechanism
 
 ## Project Results:
 Team Lux submitted our project proposal to NASA in late October; the project will be under review until December
