@@ -50,7 +50,7 @@ Snap-fit Locking Mechanism
 Team Lux submitted our project proposal to NASA in late October; the project will be under review until December
 
 ## Links:
-[CAD Files](https://drive.google.com/file/d/1ZC6x5ikizVQVVzIZL6r70M-qFPPQqQVG/view?usp=drive_link))
+[CAD Files](https://drive.google.com/file/d/1ZC6x5ikizVQVVzIZL6r70M-qFPPQqQVG/view?usp=drive_link)
 
 [Project Proposal](https://drive.google.com/file/d/1qXoHjjexq3LiHdDhT1kzgArYUffdVhMG/view?usp=sharing)
 
