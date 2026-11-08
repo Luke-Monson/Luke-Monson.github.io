@@ -42,7 +42,7 @@ independently adjustable legs
 {% include image-gallery.html images="Micro-g Folded Base.png" height="400" %} 
 Folded Tripod Base Mechanism
 
-{% include image-gallery.html images="Micro-g Folding mechanism.png" height="400" %} 
+{% include image-gallery.html images="Micro-g folding mechanism.png" height="400" %} 
 Snap-fit Locking Mechanism
 
 ## Project Results:
