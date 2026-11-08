@@ -5,7 +5,7 @@ description:
         Designed and modeled a Lunar Adjustable Multipurpose Stand that fulfilled all the requirements listed in NASA’s Micro-g NeXT challenge description as a                 part of Team Lux, one of UTDallas' Micro-g competition teams. 
 skills: 
   - CAD Modeling (Solidworks)
-  - Preliminary FEA analysis (Solidworks)
+  - Preliminary FEA (Solidworks)
   - CAD Illustration (Solidworks)
   - DFM Analysis (Water jet cutting)
   - Technical writing
