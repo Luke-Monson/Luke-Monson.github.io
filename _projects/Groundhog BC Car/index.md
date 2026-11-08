@@ -7,7 +7,7 @@ skills:
   - FDM Prototyping
   - Modular Circuit Design
   - Arduino IDE
-main-image: /sonos.png
+main-image: /Groundhog.jpg
 ---
 ## The Challenge:
 Design, build, and code a Bluetooth controlled car that can be controlled from a laptop at a range of 200m.
