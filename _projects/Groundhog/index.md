@@ -15,6 +15,6 @@ Design, build, and code a Bluetooth controlled car that can be controlled from a
 A small 3d printed tracked vehicle that uses an ESP-32 WROOM-32U module, an external antenna, two DC 
 motors, a L298N motor controller, and a LiPo battery to achieve a maximum control range of 300m. A second ESP-32 module is used to control the car from a laptop
 ## Project Results:
-A prototype was built that was able to be controlled from 200m in a straight line .
+A prototype was built that was able to be controlled from 200m in a straight line.
 ## Links:
 [CAD Files](https://drive.google.com/file/d/1whvBVj5lVQ-72l2w2Kw9lDjCVCT2aFIE/view?usp=sharing)
