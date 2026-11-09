@@ -43,7 +43,7 @@ independently adjustable legs
 Team Lux submitted our project proposal to NASA in late October; the project will be under review until December.
 
 ## Images:
-{% include image-gallery.html images="_projects/NASA Micro-g/Micro-g Folded Base.png" height="400" %}
+{% include image-gallery.html images="Micro-g.png" height="400" %} 
 Folded Tripod Base Mechanism
 
 {% include image-gallery.html images="Micro-g folding mechanism.png" height="400" %} 
