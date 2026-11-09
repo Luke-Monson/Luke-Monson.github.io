@@ -37,9 +37,10 @@ independently adjustable legs
 - Produced technical documents and CAD illustrations.
 - Performed preliminary FEA to guide team decisions.
 - Performed DFM analysis to ensure manufacturability
-- 
+
+
 ## Project Results:
-Team Lux submitted our project proposal to NASA in late October; the project will be under review until December
+Team Lux submitted our project proposal to NASA in late October; the project will be under review until December.
 
 ## Images:
 {% include image-gallery.html images="Micro-g Folded Base.png" height="400" %} 
