@@ -49,12 +49,6 @@ Folded Tripod Base Mechanism
 {% include image-gallery.html images="Micro-g folding mechanism.png" height="400" %} 
 Snap-fit Locking Mechanism
 
-### Embeed images
-{% include image-gallery.html images="Micro-g.png" height="400" %} 
-place the images in project folder/images then update the file path. 
-
-
-
 ## Links:
 [CAD Files](https://drive.google.com/file/d/1ZC6x5ikizVQVVzIZL6r70M-qFPPQqQVG/view?usp=drive_link)
 
