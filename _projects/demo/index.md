@@ -1,35 +1,66 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: NASA Micro-g NExT - Team Lux @ UTDallas
+description:  
+        Designed and modeled a Lunar Adjustable Multipurpose Stand that fulfilled all the requirements listed in NASA’s Micro-g NeXT challenge description as a                 part of Team Lux, one of UTDallas' Micro-g competition teams. 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - CAD Modeling (Solidworks)
+  - Preliminary FEA (Solidworks)
+  - CAD Illustration (Solidworks)
+  - DFM Analysis (Water jet cutting)
+  - Technical writing
 
-main-image: /project2.jpg
+main-image: /Micro-g.png
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## The Challenge:
+Design a lighting and communications stand for testing in the 
+Johnson Space Center Neutral Buoyancy Laboratory that 
+fulfills the following requirements: 
+
+| Design requirements | Final Design Metric |
+|----------|----------|
+|Reach a height of 2m minimum  / 6.1m maximum | 5.8m height |
+| Be EVA compatible | Meets team EVA compatibility tests (see proposal) |
+| Have a mass under 5kg | 3.8kg |
+| Stow to a volume of 0.4m x 0.4m x 0.61m |  0.22m x 0.25m x 0.61m |
+| Remain stable on any slope between 0 and 25 degrees.  | Design can be oriented opposite of gravity on any slope between 0 and 25 degrees |
+
+## The Solution: 
+A foldable stand made of aluminum poles, waterjet cut aluminum hinges, snap-fit locking mechanisms, and 
+independently adjustable legs
+
+## My Contribution to the Team: 
+- Taught a team member how to use SolidWorks.
+- Worked with said team member to design and model the team’s design in SolidWorks.
+- Produced technical documents and CAD illustrations.
+- Performed preliminary FEA to guide team decisions.
+- Performed DFM analysis to ensure manufacturability
 
 
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+## Project Results:
+Team Lux submitted our project proposal to NASA in late October; the project will be under review until December.
+
+## Images:
+{% include image-gallery.html images="Micro-g.png" height="400" %} 
+Folded Tripod Base Mechanism
+
+{% include image-gallery.html images="Micro-g folding mechanism.png" height="400" %} 
+Snap-fit Locking Mechanism
 
 ### Embeed images
+{% include image-gallery.html images="Micro-g.png" height="400" %} 
+place the images in project folder/images then update the file path. 
+
+
+
+## Links:
+[CAD Files](https://drive.google.com/file/d/1ZC6x5ikizVQVVzIZL6r70M-qFPPQqQVG/view?usp=drive_link)
+
+[Project Proposal](https://drive.google.com/file/d/1qXoHjjexq3LiHdDhT1kzgArYUffdVhMG/view?usp=sharing)
+You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+
+
 {% include image-gallery.html images="Micro-g.png" height="400" %} 
 place the images in project folder/images then update the file path.   
