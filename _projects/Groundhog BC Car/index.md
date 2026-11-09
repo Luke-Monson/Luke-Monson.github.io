@@ -16,6 +16,9 @@ A small 3d printed tracked vehicle that uses an ESP-32 WROOM-32U module, an exte
 motors, a L298N motor controller, and a LiPo battery to achieve a maximum control range of 300m. A second ESP-32 module is used to control the car from a laptop
 ## Project Results:
 A prototype was successfully built that was able to be controlled from 200m in a straight line.
+## Images
+{% include image-gallery.html images="sonos.png" height="400" %} 
+Folded Tripod Base Mechanism
 ## Links:
 [CAD Files](https://drive.google.com/file/d/1whvBVj5lVQ-72l2w2Kw9lDjCVCT2aFIE/view?usp=sharing)
 
